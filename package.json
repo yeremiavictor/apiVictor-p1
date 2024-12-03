@@ -1,0 +1,19 @@
+{
+  "name": "apivictor",
+  "version": "1.0.0",
+  "description": "Latihan node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "dependencies": {
+    "apivictor": "file:",
+    "body-parser": "^1.20.3",
+    "express": "^4.17.1",
+    "express-validator": "^7.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.7"
+  }
+}
